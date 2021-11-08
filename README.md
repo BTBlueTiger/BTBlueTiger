@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @BTBlueTiger aka Malte Kanders
 - 👀 I’m interested in ... Foods and Code
-- and there has to be a way to combine both
+- and there has to be a way to combine the two
