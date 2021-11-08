@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @BTBlueTiger
+- 👋 Hi, I’m @BTBlueTiger aka Malte Kanders
 - 👀 I’m interested in ... Foods
+- and there has to be a way to combine that two
