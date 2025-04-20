@@ -1,3 +1,28 @@
+---
+
+## 📊 GitHub Stats (BTBlueTiger)
+
+![BTBlueTiger's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BTBlueTiger&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BTBlueTiger&layout=compact&theme=radical)
+
+---
+
+## 📊 BBVGermany Stats
+
+![Languages](languages.svg)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CSharp-52.69%25-5c2d91?style=for-the-badge&logo=c-sharp" />
+  <img src="https://img.shields.io/badge/TypeScript-30.57%25-3178c6?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Shell-7.91%25-89e051?style=for-the-badge&logo=gnu-bash" />
+  <img src="https://img.shields.io/badge/YAML-6.59%25-blueviolet?style=for-the-badge&logo=yaml" />
+  <img src="https://img.shields.io/badge/CSS-1.48%25-264de4?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/Python-0.69%25-3776ab?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/HTML-0.07%25-e34c26?style=for-the-badge&logo=html5" />
+</p>
+
+
+
 ## 🏢 BBVGermany – Meine Organisation
 
 Ich bin der Hauptbeitragende bei [BBVGermany](https://github.com/BBVGermany), einer Organisation zur Entwicklung digitaler Bestattungs- und Vorsorgelösungen.
@@ -42,14 +67,7 @@ Ich bin der Hauptbeitragende bei [BBVGermany](https://github.com/BBVGermany), ei
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
----
 
-## 📊 GitHub Stats (BTBlueTiger)
-
-![BTBlueTiger's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BTBlueTiger&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BTBlueTiger&layout=compact&theme=radical)
-
----
 
 ## 📫 Kontakt
 
