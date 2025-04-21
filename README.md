@@ -2,8 +2,8 @@
 
 ## 📊 GitHub Stats (BTBlueTiger)
 
-![BTBlueTiger's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BTBlueTiger&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BTBlueTiger&layout=compact&theme=radical)
+![BTBlueTiger's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BTBlueTiger&show_icons=true&theme=radical&cache_bust=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BTBlueTiger&layout=compact&theme=radical&cache_bust=1)
 
 ---
 
