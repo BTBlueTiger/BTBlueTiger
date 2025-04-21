@@ -7,9 +7,21 @@
 
 ---
 
+## 📦 QuestPDF.Pieces – Open Source Project
+
+[![NuGet](https://img.shields.io/nuget/v/QuestPDF.Pieces?style=for-the-badge&logo=nuget)](https://www.nuget.org/packages/QuestPDF.Pieces)
+[![NuGet Downloads](https://img.shields.io/nuget/dt/QuestPDF.Pieces.svg)](https://www.nuget.org/packages/QuestPDF.Pieces)
+
+`QuestPDF.Pieces` is a library providing building components for PDF generation using QuestPDF.  
+It extends the function-styled version to a component-styled version.
+
+**Repository:** [QuestPDF.Pieces](https://github.com/BTBlueTiger/QuestPDF.Pieces)
+
+---
+
 ## 📊 BBVGermany Stats
 
-![Languages](languages.svg)
+<img src="languages.svg" alt="Languages" style="width: 100%;" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/CSharp-52.69%25-5c2d91?style=for-the-badge&logo=c-sharp" />
@@ -21,45 +33,46 @@
   <img src="https://img.shields.io/badge/HTML-0.07%25-e34c26?style=for-the-badge&logo=html5" />
 </p>
 
+Progress bar generated with my `GOorgAnalyser`, a Go module to analyze organizations.  
+**Note:** This project is currently in its early alpha stage.
 
+---
 
-## 🏢 BBVGermany – Meine Organisation
+## 🏢 BBVGermany – My Organization
 
-Ich bin der Hauptbeitragende bei [BBVGermany](https://github.com/BBVGermany), einer Organisation zur Entwicklung digitaler Bestattungs- und Vorsorgelösungen.
+I am the primary contributor to [BBVGermany](https://github.com/BBVGermany), an organization focused on developing digital funeral and pre-planning solutions.
 
-## 📦 Öffentliche Repositories
+## 📦 Public Repositories
 
-| Repository | Beschreibung | Hauptsprache |
-|------------|--------------|---------------|
-| [Cypress](https://github.com/BBVGermany/Cypress) | End-to-End Testing mit Cypress | TypeScript |
-| [QuestPDF.Pieces](https://github.com/BBVGermany/QuestPDF.Pieces) | Bausteine für die PDF-Generierung mit QuestPDF | C# |
-| [Environment](https://github.com/BBVGermany/Environment) | Docker Compose & Systemkonfigurationen | Shell |
-| [SitemapGenerator](https://github.com/BBVGermany/SitemapGenerator) | Erzeugung von Sitemaps aus JSON-Daten | Python |
-| [.github](https://github.com/BBVGermany/.github) | Organisationsweite Konfigurationen (z. B. Issue Templates) | – |
-| [CI-CD](https://github.com/BBVGermany/CI-CD) | GitHub Actions & Deployment Workflows | – |
+| Repository | Description | Main Language |
+|------------|-------------|---------------|
+| [Cypress](https://github.com/BBVGermany/Cypress) | End-to-end testing with Cypress | TypeScript |
+| [Environment](https://github.com/BBVGermany/Environment) | Docker Compose & system configurations | Shell |
+| [SitemapGenerator](https://github.com/BBVGermany/SitemapGenerator) | Generate sitemaps from JSON data | Python |
+| [.github](https://github.com/BBVGermany/.github) | Organization-wide configurations (e.g., issue templates) | – |
+| [CI-CD](https://github.com/BBVGermany/CI-CD) | GitHub Actions & deployment workflows | – |
 
+### 📌 Private Projects of the Organization
 
-### 📌 Projekte der Organisation
-
-#### 🕊️ [Vorsorge Plattform (Frontend)](https://github.com/BBVGermany/vorsorge-frontend)
-> Eine moderne React-Anwendung zur digitalen Bestattungsvorsorge.  
+#### 🕊️ [Pre-Planning Platform (Frontend)](https://github.com/BBVGermany/vorsorge-frontend)
+> A modern React application for digital funeral pre-planning.  
 **Tech Stack**: React, Vite, TypeScript, Material UI
 
-#### ⚙️ [Vorsorge API (Backend)](https://github.com/BBVGermany/vorsorge-api)
-> Eine RESTful API mit ASP.NET Core zur Verwaltung aller Daten rund um die Vorsorgeplattform.  
+#### ⚙️ [Pre-Planning API (Backend)](https://github.com/BBVGermany/vorsorge-api)
+> A RESTful API with ASP.NET Core to manage all data related to the pre-planning platform.  
 **Tech Stack**: ASP.NET Core, Entity Framework, PostgreSQL, Docker
 
-#### 📄 [PDF-Generator (QuestPDF)](https://github.com/BBVGermany/questpdf-template)
-> Templates und Funktionen zur Erzeugung von professionellen PDFs, z. B. für Vertragszusammenfassungen.  
+#### 📄 [PDF Generator (QuestPDF)](https://github.com/BBVGermany/questpdf-template)
+> Templates and functions for generating professional PDFs, e.g., for contract summaries.  
 **Tech Stack**: C#, QuestPDF
 
-#### 📧 [E-Mail Versandservice](https://github.com/BBVGermany/email-service)
-> Versand von Transaktions-E-Mails mit optionalem PDF-Anhang via Brevo (Sendinblue).  
+#### 📧 [Email Service](https://github.com/BBVGermany/email-service)
+> Send transactional emails with optional PDF attachments via Brevo (Sendinblue).  
 **Tech Stack**: C#, Brevo API
 
 ---
 
-## 🧰 Tools & Sprachen
+## 🧰 Tools & Languages
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
@@ -67,9 +80,9 @@ Ich bin der Hauptbeitragende bei [BBVGermany](https://github.com/BBVGermany), ei
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+---
 
-
-## 📫 Kontakt
+## 📫 Contact
 
 📫 **Website:** [bestattung-bringewatt-vogelsang.de](https://bestattung-bringewatt-vogelsang.de/)  
 🐙 **GitHub:** [@BBVGermany](https://github.com/BBVGermany)  
